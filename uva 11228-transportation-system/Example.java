@@ -55,5 +55,6 @@ public class Example {
         break;
     }
     System.out.printf("MST cost = %d (Prim's)\n", mst_cost);
+    sc.close();
   }
 }

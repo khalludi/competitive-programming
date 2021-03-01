@@ -88,6 +88,7 @@ public class Main {
       pw.printf("%d\n", ans);
     }
 
+    br.close();
     pw.close();
   }
 }
